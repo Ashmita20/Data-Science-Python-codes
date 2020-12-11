@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
+# created by Ashmita
 
 This is a temporary script file.
 """
